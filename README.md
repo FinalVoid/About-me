@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Peppermint174
+- 👋 Hi, I’m @FinalVoidd
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to make and mod games
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on noting
+- 📫 How to reach me IDK
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 2 cats
-
-<!---
-alexhaweky/alexhaweky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I have 3 cats
